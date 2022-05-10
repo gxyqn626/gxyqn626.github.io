@@ -6,7 +6,7 @@
   <link href="http://gxyqn626.github.io/atom.xml" rel="self"/>
   
   <link href="http://gxyqn626.github.io/"/>
-  <updated>2022-04-26T02:45:36.860Z</updated>
+  <updated>2022-05-10T12:32:49.569Z</updated>
   <id>http://gxyqn626.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何在vscode中配置C/C++编译环境</title>
+    <link href="http://gxyqn626.github.io/2022/05/10/%E5%A6%82%E4%BD%95%E5%9C%A8vscode%E4%B8%AD%E9%85%8D%E7%BD%AEC-C-%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83/"/>
+    <id>http://gxyqn626.github.io/2022/05/10/%E5%A6%82%E4%BD%95%E5%9C%A8vscode%E4%B8%AD%E9%85%8D%E7%BD%AEC-C-%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83/</id>
+    <published>2022-05-10T12:26:54.000Z</published>
+    <updated>2022-05-10T12:32:49.569Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="sdf"><a href="#sdf" class="headerlink" title="# sdf"></a># sdf</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;sdf&quot;&gt;&lt;a href=&quot;#sdf&quot; class=&quot;headerlink&quot; title=&quot;# sdf&quot;&gt;&lt;/a&gt;# sdf&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

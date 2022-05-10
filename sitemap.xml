@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gxyqn626.github.io/2022/05/10/%E5%A6%82%E4%BD%95%E5%9C%A8vscode%E4%B8%AD%E9%85%8D%E7%BD%AEC-C-%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83/</loc>
+    
+    <lastmod>2022-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://gxyqn626.github.io/music/index.html</loc>
     
     <lastmod>2022-04-26</lastmod>
@@ -67,7 +76,7 @@
 
   <url>
     <loc>http://gxyqn626.github.io/</loc>
-    <lastmod>2022-04-27</lastmod>
+    <lastmod>2022-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
