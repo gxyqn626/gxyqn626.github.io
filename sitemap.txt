@@ -1,4 +1,4 @@
-http://gxyqn626.github.io/2022/05/10/%E5%A6%82%E4%BD%95%E5%9C%A8vscode%E4%B8%AD%E9%85%8D%E7%BD%AEC-C-%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83/
+http://gxyqn626.github.io/2022/05/10/%E5%9C%A8VSCODE%E4%B8%AD%E9%85%8D%E7%BD%AEC-C-%E7%8E%AF%E5%A2%83/
 http://gxyqn626.github.io/music/index.html
 http://gxyqn626.github.io/404/index.html
 http://gxyqn626.github.io/friends/index.html
@@ -7,3 +7,4 @@ http://gxyqn626.github.io/tags/index.html
 http://gxyqn626.github.io/categories/index.html
 http://gxyqn626.github.io/2022/04/26/hello-world/
 http://gxyqn626.github.io/
+http://gxyqn626.github.io/tags/%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/
